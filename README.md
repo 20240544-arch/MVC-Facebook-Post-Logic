@@ -9,7 +9,8 @@ This project simulates a social media post where users can add comments. It demo
 - **Controller**: Mediates between the Model and the View.
 
 ## 📊 Class Diagram
-![Class Diagram](<img width="1144" height="870" alt="ClassDiagram" src="https://github.com/user-attachments/assets/4b532798-145b-4bfc-b638-50fcdaf822a4" />
+![Class Diagram](<img width="1144" height="870" alt="ClassDiagram" src="https://github.com/user-attachments/assets/73e8e644-333f-4c1c-b533-dab8f7d5f61a" />
+
 )
 
 ## 💻 Tech Stack
